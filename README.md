@@ -10,6 +10,20 @@ This requires **requests** and **BeautifulSoup4**.
 * **im_blacklist.json** - A list of users whose memes the bot won't comment on.
 * **tuned_responses.json** - A series of trigger words and their respective responses.
 
+### What am I allowed to do with this code?
+
+You may:
+
+* Conduct social experiments
+* Demonstrate this code
+* Use this code for educational purposes
+
+You may NOT:
+
+* Spam comment sections
+* Troll
+* Intentionally stir controversy
+
 ### To get data for cookies.txt:
 
 Log into your bot account, go to the imgflip homepage, right click anywhere on the page, and then click on "Inspect Element." Click on the Network tab, and then click on a meme without closing the developer tools.
