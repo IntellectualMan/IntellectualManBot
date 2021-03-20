@@ -17,7 +17,7 @@ This requires **requests** and **BeautifulSoup4**.
 **You may:**
 
 * Conduct social experiments
-* Collect data about ImgFlip.
+* Collect data about ImgFlip
 * Demonstrate this code
 * Modify this code
 * Use this code for educational purposes
@@ -25,7 +25,7 @@ This requires **requests** and **BeautifulSoup4**.
 **You may NOT:**
 
 * Spam comment sections
-* Troll
+* Troll or harass
 * Intentionally stir controversy
 * Make money off of this code or with this code
 * Advertise anything in comment sections
