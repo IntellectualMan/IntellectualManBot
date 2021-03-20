@@ -1,7 +1,14 @@
 # IntellectualManBot
 Bot from imgflip that used to comment on conservative posts
 
-This requires requests and BeautifulSoup4.
+This requires **requests** and **BeautifulSoup4**.
+
+### What is everything?
+
+* **allowed_streams.json** - A list of streams that the bot is allowed to comment in.
+* **generic.json** - A list of responses that the bot always has a chance of sending.
+* **im_blacklist.json** - A list of users whose memes the bot won't comment on.
+* **tuned_responses.json** - A series of trigger words and their respective responses.
 
 ### To get data for cookies.txt:
 
