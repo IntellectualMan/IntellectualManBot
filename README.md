@@ -17,6 +17,7 @@ This requires **requests** and **BeautifulSoup4**.
 **You may:**
 
 * Conduct social experiments
+* Collect data about ImgFlip usage
 * Demonstrate this code
 * Modify this code
 * Use this code for educational purposes
