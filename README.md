@@ -26,7 +26,8 @@ This requires **requests** and **BeautifulSoup4**.
 * Spam comment sections
 * Troll
 * Intentionally stir controversy
-* Make money off of this code or with this code (i.e. advertise in comment sections)
+* Make money off of this code or with this code
+* Advertise anything in comment sections
 
 ### To get data for cookies.txt:
 
