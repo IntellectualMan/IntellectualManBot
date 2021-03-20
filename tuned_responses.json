@@ -1,0 +1,121 @@
+[
+  {
+    "triggers": ["trump", "maga", "donny"],
+    "responses": [
+      "I love Trump!",
+      "Trump is king!",
+      "Trump is the best president Ever!"
+    ]
+  },
+  {
+    "triggers": ["xi", "xinnie", "china", "jinping", "chinese"],
+    "responses": [
+      "Ooh, Xinnie's not gonna like this one!",
+      "America first!",
+      "Down with communist China!"
+      ]
+  },
+  {
+    "triggers": ["joe", "biden", "pedo", "sniff"],
+    "responses": [
+      "Joe Biden? More like Child sniffer PEDOPHILE Biden!",
+      "Impeach China Joe!",
+      "You sure showed Pedo Joe!"
+    ]
+  },
+  {
+    "triggers": ["lgbt", "gay"],
+    "responses": [
+      "I'm homophobic! At least that's what the libs say.",
+      "Liberals call me homophobic because I don't agree with homosexuality!"
+    ]
+  },
+  {
+    "triggers": ["blm", "antifa"],
+    "responses": [
+      "BLM/ANTIFA are the real terrorists!",
+      "BLM and ANTIFA are working to destroy our heritage!",
+      "BLM/ANTIFA are weak compared to us Republicans!"
+    ]
+  },
+  {
+    "triggers": ["racist", "racism"],
+    "responses": [
+      "I get called racist even though I have black friends! Hypocritical liberals!",
+      "Everything is racist nowadays. Just a way for the Deep State to control you."
+    ]
+  },
+  {
+    "triggers": ["capitol riot", "capitol"],
+    "responses": [
+      "The Capitol Riots were a trick by the Democrats to make us look bad!"
+    ]
+  },
+  {
+    "triggers": ["andrew", "cuomo"],
+    "responses": [
+      "I hate Andrew Cuomo!",
+      "Down with Cuomo!",
+      "Cuomo should be arrested!"
+    ]
+  },
+  {
+    "triggers": ["lol", "haha"],
+    "responses": [
+      "Great meme! This is hilarious!",
+      "LOL!",
+      "This meme is so funny!"
+    ]
+  },
+  {
+    "triggers": ["feminist", "sjw", "triggered", "trigger the"],
+    "responses": [
+      "The S in SJW stands for stupid!",
+      "Haha! Feminists hate men!",
+      "When will feminists learn not to hate men?",
+      "LOL! Feminists triggered!",
+      "Feminists owned!"
+    ]
+  },
+  {
+    "triggers": ["nancy", "pelosi"],
+    "responses": [
+      "Pelosi's an old hag!",
+      "I hate Pelosi!",
+      "Pelosi sympathizes with Fauci!"
+    ]
+  },
+  {
+    "triggers": ["illegal immigrant", "illegal immigration", "illegal alien", "illegals"],
+    "responses": [
+      "I hate illegal immigration!"
+    ]
+  },
+  {
+    "triggers": ["jim halpert", "halpert", "change my mind"],
+    "responses": [
+      "You owned the libs!",
+      "Woah, easy with the liberal ownage!",
+      "Nice one!",
+      "I smell liberal tears!"
+    ]
+  },
+  {
+    "triggers": ["corrupt", "media", "hate speech", "free speech"],
+    "responses": [
+      "This is literally 1984.",
+      "This is just like 1984!",
+      "This is something Big Brother would do.",
+      "This reminds me of 1984.",
+      "Literally 1984!"
+    ]
+  },
+  {
+    "triggers": ["woke", "cancel culture", "woke heaven"],
+    "responses": [
+      "They cancel EVERYTHING nowadays!",
+      "At this rate, they'll cancel beef jerky!",
+      "They won't stop until EVERYTHING is cancelled!"
+    ]
+  }
+]
