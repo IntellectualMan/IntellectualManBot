@@ -3,6 +3,8 @@ Bot from imgflip that used to comment on conservative posts
 
 This requires **requests** and **BeautifulSoup4**.
 
+**Note that this may violate the [ImgFlip Terms of Service](http://imgflip.com/terms) (see Using our Services), so use at your own risk.**
+
 ### What is everything?
 
 * **allowed_streams.json** - A list of streams that the bot is allowed to comment in.
@@ -23,6 +25,7 @@ You may NOT:
 * Spam comment sections
 * Troll
 * Intentionally stir controversy
+* Make money off of this code or with this code
 
 ### To get data for cookies.txt:
 
@@ -36,4 +39,4 @@ For Firefox:
 
 ![](doc_firefox.png)
 
-Copy and paste the big string of cookies into your cookies.txt file, and you should be good to go. 
+Copy and paste the big string of cookies into your cookies.txt file, run IntellectualMan.py, and you should be good to go. 
