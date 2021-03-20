@@ -30,6 +30,8 @@ This requires **requests** and **BeautifulSoup4**.
 * Make money off of this code or with this code
 * Advertise anything in comment sections
 
+**I am not responsible for the things you do with this code.**
+
 ### To get data for cookies.txt:
 
 Log into your bot account, go to the imgflip homepage, right click anywhere on the page, and then click on "Inspect Element." Click on the Network tab, and then click on a meme without closing the developer tools.
