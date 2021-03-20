@@ -3,7 +3,7 @@ Bot from imgflip that used to comment on conservative posts
 
 This requires **requests** and **BeautifulSoup4**.
 
-**Note that this may violate the [ImgFlip Terms of Service](http://imgflip.com/terms) (see Using our Services), so use at your own risk.**
+**Note that this may violate the [ImgFlip Terms of Service](http://imgflip.com/terms) (see** ***Using our Services*** **), so use at your own risk.**
 
 ### What is everything?
 
