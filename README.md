@@ -1,2 +1,2 @@
 # IntellectualManBot
-Bot from imgflip that used to comment on posts
+Bot from imgflip that used to comment on conservative posts
