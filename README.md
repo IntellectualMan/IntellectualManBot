@@ -18,6 +18,7 @@ This requires **requests** and **BeautifulSoup4**.
 
 * Conduct social experiments
 * Demonstrate this code
+* Modify this code
 * Use this code for educational purposes
 
 **You may NOT:**
@@ -25,7 +26,7 @@ This requires **requests** and **BeautifulSoup4**.
 * Spam comment sections
 * Troll
 * Intentionally stir controversy
-* Make money off of this code or with this code
+* Make money off of this code or with this code (i.e. advertise in comment sections)
 
 ### To get data for cookies.txt:
 
