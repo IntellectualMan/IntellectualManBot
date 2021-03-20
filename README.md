@@ -14,13 +14,13 @@ This requires **requests** and **BeautifulSoup4**.
 
 ### What am I allowed to do with this code?
 
-You may:
+**You may:**
 
 * Conduct social experiments
 * Demonstrate this code
 * Use this code for educational purposes
 
-You may NOT:
+**You may NOT:**
 
 * Spam comment sections
 * Troll
