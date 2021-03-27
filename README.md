@@ -26,7 +26,7 @@ This requires **requests** and **BeautifulSoup4**.
 
 * Spam comment sections
 * Troll or harass
-* Intentionally stir controversy
+* Intentionally stir controversy/start flame wars in comment sections
 * Make money off of this code or with this code
 * Advertise anything in comment sections
 
